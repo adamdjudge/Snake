@@ -1,3 +1,8 @@
+/*
+ * Simple Java Snake Game
+ * Copyleft 2019 Adam Judge
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.concurrent.TimeUnit;
@@ -8,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class Game extends JFrame {
 
     /* Configuration constants */
-    private static final String TITLE = "Snake v0.9";
+    private static final String TITLE = "Snake v1.0";
     private static final String[] difficulties = {"Easy", "Medium", "Hard"};
     private static final String[] themes = {
             "Default",

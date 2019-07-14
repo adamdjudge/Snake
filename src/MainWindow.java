@@ -1,3 +1,8 @@
+/*
+ * Simple Java Snake Game
+ * Copyleft 2019 Adam Judge
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;

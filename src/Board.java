@@ -1,3 +1,8 @@
+/*
+ * Simple Java Snake Game
+ * Copyleft 2019 Adam Judge
+ */
+
 import java.util.ArrayList;
 import java.util.concurrent.ThreadLocalRandom;
 
